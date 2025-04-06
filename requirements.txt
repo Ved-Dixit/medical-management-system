@@ -1,0 +1,7 @@
+streamlit
+pandas
+fpdf
+scikit-learn
+numpy
+opencv-python
+Pillow
